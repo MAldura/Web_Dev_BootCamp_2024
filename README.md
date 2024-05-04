@@ -1,4 +1,4 @@
-# Web_Dev_BootCamp_2023
+# Web_Dev_BootCamp_2024
 
 This is a Udemy course by Colt Steele which covers major web dev topics including html, css, JavaScript, APIs, Databases, and more! 
 
